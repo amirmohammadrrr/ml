@@ -1,0 +1,9 @@
+version: 2
+
+groups:
+  - name: Finance
+    owner:
+      name: Finance_team
+      email: amirmohammadrrr@gmail.com
+
+      
